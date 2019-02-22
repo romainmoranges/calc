@@ -1,1 +1,1 @@
-https://romainmoranges.github.io/calc
+https://romainmoranges.github.io/calc/calculette.html
